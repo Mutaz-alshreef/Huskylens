@@ -4,12 +4,6 @@ This project demonstrates how to connect and use the **HuskyLens AI camera** wit
 
 ---
 
-## 🎥 Demo Video
-
-https://github.com/user-attachments/assets/ded4b154-3cd7-40d6-9c33-c32294396968
-
----
-
 - TX (HuskyLens) → Pin **10** (Arduino RX)
 - RX (HuskyLens) → Pin **11** (Arduino TX)
 - GND → GND
@@ -46,7 +40,11 @@ Ensure HuskyLens is in the correct mode (Face Recognition, Object Tracking, etc.
 - `SoftwareSerial` (built-in)
 
 ---
+## 🎥 Demo Video
 
+https://github.com/user-attachments/assets/ded4b154-3cd7-40d6-9c33-c32294396968
+
+---
 ## 💻 Arduino Code
 
 ```cpp
