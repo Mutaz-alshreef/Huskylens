@@ -6,7 +6,7 @@ This project demonstrates how to connect and use the **HuskyLens AI camera** wit
 
 ## 🎥 Demo Video
 
-![Tracking Demo](output.gif)
+![Tracking Demo](IMG_8383.MOV)
 
 - TX (HuskyLens) → Pin **10** (Arduino RX)
 - RX (HuskyLens) → Pin **11** (Arduino TX)
