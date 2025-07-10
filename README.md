@@ -6,8 +6,7 @@ This project demonstrates how to connect and use the **HuskyLens AI camera** wit
 
 ## 🎥 Demo Video
 
-Watch the video demonstration here:  
-👉 [Color Tracking Demo](https://drive.google.com/file/d/1_eGAuPuzJJYSInDWhhMCD6KeKdkXXa_T/view?usp=sharing) 
+https://github.com/user-attachments/assets/ded4b154-3cd7-40d6-9c33-c32294396968
 
 ---
 
